@@ -1,0 +1,20 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "description": "https://ibb.co/7rggcGY\r https://ibb.co/K6KMJkJ\r https://ibb.co/jVtXCj2\r https://ibb.co/VxvJjrk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "commander": "^11.1.0",
+    "nodemon": "^3.0.2"
+  }
+}
